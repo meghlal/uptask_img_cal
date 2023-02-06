@@ -23,7 +23,6 @@ class ImgCalController extends AbstractController
 
     /**
      * ImgCalController constructor.
-     * @param int $months_in_a_year
      */
     public function __construct()
     {
